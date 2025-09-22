@@ -32,6 +32,6 @@ Working on this project helped me:
 - Gain confidence to tackle **more complex projects** in the FreeCodeCamp Data Science course  
 
 Project instructions and challenge description can be found here:  
-[FreeCodeCamp Demographic Data Analysis](https://www.freecodecamp.org/learn/data-analysis-wit)
+[FreeCodeCamp Demographic Data Analysis](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
 Learning data science one project at a time :)
